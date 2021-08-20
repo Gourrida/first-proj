@@ -9,6 +9,7 @@
   "author": "amr",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "loadash": "^1.0.0",
     "lodash": "^4.17.21"
   },
